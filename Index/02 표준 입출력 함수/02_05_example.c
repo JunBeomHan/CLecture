@@ -1,7 +1,10 @@
-// example 02_04_example.c
+// example 02_05_example.c
 #include <stdio.h>
 
 int main() {
-	printf("Hello World!");
-	return 0;	
+	int a, b;
+	scanf("%d %d", &a, &b);
+	int c = a + b;
+	printf("%d", c);
+	return 0;
 }
