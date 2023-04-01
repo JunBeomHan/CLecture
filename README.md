@@ -1,4 +1,4 @@
-![](READEME/images/modi.png)
+![](README/images/modi.png)
 
 ### 목차
 
